@@ -1,2 +1,2 @@
-# maaply
+# Website-Maaply
 Maaply - Location sharing
